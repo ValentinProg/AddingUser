@@ -1,5 +1,5 @@
 import React from 'react';
-import AddUser from './componets/Users/AddUser';
+import AddUser from './componets/Users/AddUser/AddUser';
 
 
 const App = () =>
